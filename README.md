@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Shrey Panchasara
 - **Email**: shrey.panchasara20@gmail.com
-- **GitHub**: @shrey1720
+- **GitHub**: shrey1720
 - **Research Area**: Computational Biology, Optimization Algorithms in Parallel Metaheuristics
 
 ---
