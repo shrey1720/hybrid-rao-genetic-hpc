@@ -1,0 +1,3 @@
+Version,Execution_Time_Seconds,Growth_Score,CPU_Time_ms,System_Time_ms,Wall_Time_Seconds,Speedup,Quality_Improvement
+Serial,42.22,64.10,49.2,6.28,42.6,1.0,0.0
+CUDA_Parallel,31.21,100.00,45.0,6.61,31.6,1.35,56.0
